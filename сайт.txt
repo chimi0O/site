@@ -1,0 +1,8 @@
+<HTML>
+ <HEAD>
+  <TITLE>лампабикт</TITLE>
+ </HEAD>
+ <BODY>
+ </BODY>
+</HTML>
+  
